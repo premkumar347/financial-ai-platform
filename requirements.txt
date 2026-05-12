@@ -4,9 +4,6 @@ numpy
 yfinance
 scikit-learn
 ta
-shap
-xgboost
-tensorflow
 plotly
 joblib
-sqlalchemy
+
